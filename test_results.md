@@ -1,6 +1,4 @@
 # Otomatik Test Sonuclari
-
-Tarih: 2026-09-08 19:31
 Sonuc: **13/13 test gecti**
 
 Ayarlar: model `phi-3.5-mini`, embedding `qwen3-embedding-0.6b`, esik 0.45, top_k 5, komsu 1, hibrit agirlik 0.6

@@ -1,0 +1,21 @@
+# Streamlit tema ayarlari.
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#C25A6B"
+backgroundColor = "#171A21"
+secondaryBackgroundColor = "#1E222B"
+textColor = "#E8E6E1"
+font = "sans serif"
+
+# base = "light"
+# primaryColor = "#8B2635"
+# backgroundColor = "#F4F3EF"
+# secondaryBackgroundColor = "#EAE8E2"
+# textColor = "#1A1F2E"
+
+[browser]
+gatherUsageStats = false
